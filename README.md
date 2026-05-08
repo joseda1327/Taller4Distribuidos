@@ -173,3 +173,9 @@ integridad en el receptor.
 - Separación de módulos por tema: `TCP_UDP/` y `THREADS/`.
 - `.gitignore` para evitar subir `.class`, `bin/`, objetos, ejecutables o comprimidos.
 - Informe PDF con objetivos, funcionamiento, pruebas, comparativas, conclusiones y referencias.
+
+
+  ---
+
+  ## Autor
+  Jose David Medina Salgado
